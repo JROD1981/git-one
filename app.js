@@ -1,1 +1,1 @@
-const hello = console.log("Say Hello");
+const what = console.log("Say Hello");
